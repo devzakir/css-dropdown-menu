@@ -1,4 +1,6 @@
-# Webpack Boilerplate
+# CSS Multilevel Dropdown Menu
+
+## Webpack Boilerplate
 This repository contains Webpack and SCSS boilerplate code to quickly get started on building a webpage following a simplified version of SASS (7-1 pattern).
 
 
